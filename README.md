@@ -3,4 +3,4 @@
 # ERD
 ![ERD.png](..%2FERD.png)
 # API 명세서
-https://documenter.getpostman.com/view/8706725/2s9YymGQU6
+[https://documenter.getpostman.com/view/8706725/2s9YymGQU6](https://documenter.getpostman.com/view/8706725/2s9YymGQU6)https://documenter.getpostman.com/view/8706725/2s9YymGQU6
